@@ -9,7 +9,7 @@
 ## Introduction
 
 So far we have been using a single reducer to return a new state when an action
-is dispatched. This works great for a small application where we only need our
+is dispatched. This works great for a small application where we only need our 
 reducer to manage the state of one resource. However, as you will see, when
 working with multiple resources, placing all of this logic in one reducer
 function can quickly become unwieldy.
