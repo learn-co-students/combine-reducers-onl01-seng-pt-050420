@@ -2,11 +2,31 @@
 
 ## Objectives
 
+
+
+
+
+
+
 1. Write action creators and reducers to modify application state
 2. Build **Redux's combineReducers()** function
 3. Use the `combineReducers()` function to delegate different pieces of state to each reducer
+4. 
+
+
+
+
+
+
+
+
 
 ## Introduction
+
+
+
+
+
 
 So far we have been using a single reducer to return a new state when an action
 is dispatched. This works great for a small application where we only need our
